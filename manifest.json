@@ -1,7 +1,7 @@
 {
 	"name": "FNAF 1",
 	"short_name": "FNAF 1",
-	"start_url": "feed.html",
+	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
 	"icons": [{
